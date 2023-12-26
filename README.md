@@ -6,6 +6,6 @@ Link to project: http://demowebshop.tricentis.com/
 
 2. Checklist for Shopping cart and Payment section: https://docs.google.com/spreadsheets/d/1BKqBexgI1gyde6qp-ruJ6FLtQlq7R1k2t94LVrdVOsY/edit#gid=0
 
-3. Test cases : https://app.qase.io/project/G2S?case=603&previewMode=side&suite=65
+3. Test cases for Shopping cart and Payment section: https://drive.google.com/file/d/1KOwdNd-ZwFUuHeL9HzIMW0k-mqHT3sPT/view?usp=sharing
 
-4. Bugreport in Youtrack: https://artsiomrusau.youtrack.cloud/issue/FTO2023-690/Web-app-testing-Dilnoza-Mullakhanova
+4. Bugreport in Youtrack: https://docs.google.com/spreadsheets/d/1iatKHhj-1hOQHB2TyQZtZSqtsXq2Ev6y2C6LQjF3YEY/edit?usp=sharing
